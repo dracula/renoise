@@ -1,17 +1,8 @@
-### [X](http://link-to-x.com)
+#### Install 
 
-#### Install using Git
+If you are a new ReNoise user:
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+- https://tutorials.renoise.com/wiki/Preferences#Theme
 
-    $ git clone https://github.com/dracula/template.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this
-2. Then that
-3. Boom! It's working
+In short: 
+> Preferences > Theme > Import `mb-dracula-renoise-theme.xrnc` from this repo, & B00M! It's working. :+1:
