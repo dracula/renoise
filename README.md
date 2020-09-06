@@ -1,6 +1,6 @@
 # Dracula for [ReNoise](http://renoise.com)
 
-> A dark theme for [ReNoise](http://renoise.com) & ]Redux](https://www.renoise.com/products/redux).
+> A dark theme for [ReNoise](http://renoise.com) & [Redux](https://www.renoise.com/products/redux).
 
 ReNoise
 ![ReNoise Screenshot](./mb-dracula-renoise.png)
@@ -8,9 +8,11 @@ ReNoise
 Redux
 ![Redux Screnshot](./mb-dracula-redux.png)
 
+(NOTE: HDPI screenshots at 200% UI up scale on Windows 10 at 3840x2160)
+
 ## Install
 
-All instructions can be found at [draculatheme.com/renoise](https://draculatheme.com/renoise) (if accepted to the main theme page).
+See [INSTALL.md](./INSTALL.md)
 
 ## Team
 
